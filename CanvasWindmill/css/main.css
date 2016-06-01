@@ -1,0 +1,17 @@
+body {
+  margin: 0 auto;
+  background: #ccc;
+}
+
+.container {
+  width: 700px;
+  margin: 50px auto;
+}
+
+canvas {
+  margin: 0 auto;
+  background: lightblue;
+  width: 700px;
+  height: 500px;
+}
+
